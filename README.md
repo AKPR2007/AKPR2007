@@ -1,8 +1,12 @@
-___***Hi, I’m @AKPR2007
-I love gaming especially Minecraft
-I like to make bash scripts & android apps
-I also create Minecraft texture/data pack
-Contact me at akpr@ccmail.uk***___
+**_Hi, I’m @AKPR2007_**
+
+**_I love gaming especially Minecraft_**
+
+**_I like to make bash scripts & android apps_**
+
+**_I also create Minecraft texture/data pack_**
+
+**_Contact me at akpr@ccmail.uk_**
 
 <!---
 AKPR2007/AKPR2007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
