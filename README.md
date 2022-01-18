@@ -2,7 +2,7 @@
 
 **_I love gaming especially Minecraft_**
 
-**_I like to make bash scripts & android apps_**
+**_I like to make bash scripts, android apps & web apps_**
 
 **_I also create Minecraft texture/data pack_**
 
