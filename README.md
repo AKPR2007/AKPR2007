@@ -1,12 +1,4 @@
-**_Hi, I’m @AKPR2007_**
-
-**_I love gaming especially Minecraft_**
-
-**_I like to make bash scripts, android apps & web apps_**
-
-**_I also create Minecraft texture/data pack_**
-
-**_Contact me at akpr@ccmail.uk_**
+![](https://raw.githubusercontent.com/AKPR2007/AKPR2007/refs/heads/main/github-contribution-grid-snake.svg)
 
 <!---
 AKPR2007/AKPR2007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
