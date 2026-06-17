@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="header2.png" width="100%">
+</div>
+
+<div align="center">
   <h2>Hi, I'm Erik</h2>
   <p><b>JavaScript Developer // Android Developer // Open Source Contributor</b></p>
   
@@ -17,22 +21,22 @@
 
 <div align="center">
   <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=js,php,java,c,cpp,cs,kotlin,bash,css,html&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,php,java,c,cpp,cs,kotlin,bash,css,html&theme=dark"/>
   
   <h3>Frameworks, Libraries & Runtime</h3>
-  <img src="https://skillicons.dev/icons?i=jquery,nextjs,angular,react,tailwind,vite,vue,svelte,tauri,nginx,nodejs,npm,electron,flutter&theme=dark" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=jquery,nextjs,angular,react,tailwind,vite,vue,svelte,tauri,nginx,nodejs,npm,electron,flutter&theme=dark"/>
   
   <h3>Databases & Cloud</h3>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,workers,aws,gcp,azure,vercel,netlify,heroku&theme=dark" alt="Cloud" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,workers,aws,gcp,azure,vercel,netlify,heroku&theme=dark"/>
   
   <h3>Tools</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,windows,linux,debian,arch,vscode,vscodium,androidstudio,notion&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,windows,linux,debian,arch,vscode,vscodium,androidstudio,notion&theme=dark"/>
 </div>
 
 <br/><hr/>
 
 <div align="center">
-  <img src="https://gittrophy.vercel.app/?username=AKPR2007&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://gittrophy.vercel.app/?username=AKPR2007&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </div>
 
 
