@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h2>Hi, I'm Erik</h2>
+  <h2>Hi, I'm Erik</h2> <img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif">
   <p><b>JavaScript Developer // Android Developer // Open Source Contributor</b></p>
   
   <p>
