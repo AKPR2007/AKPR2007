@@ -15,6 +15,8 @@
   <a href="mailto:erik@akpr.me">
     <img src="https://img.shields.io/badge/Email-erik%40akpr.me-red?style=for-the-badge&logo=gmail" alt="email"/>
   </a>
+  
+  <sup>(I might be slow to respond)</sup>
 </div>
 
 <br/><hr/>
